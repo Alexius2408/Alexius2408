@@ -1,10 +1,10 @@
 # 🙃 About Me:
 
 - Pronouns: he/him  
-- I am a student at a higher technical school for IT.  
-- I am currently working on an Electron app built with JavaScript, HTML, and CSS called [WebSumize](https://github.com/Alexius2408/WebSumize).  
-- I like to code small projects for myself and with my friends.  
-- I REALLY like listening to music.  
+- Student at a higher technical school for IT.  
+- Currently working on an Electron app built with JavaScript, HTML, and CSS called [WebSumize](https://github.com/Alexius2408/WebSumize).  
+- Enjoy coding small projects.
+- I REALLY enjoy listening to music.  
 - Hobbies: swimming/snorkeling, programming, playing video games, and bouldering.
 
 
