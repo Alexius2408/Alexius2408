@@ -1,6 +1,6 @@
 # 🙃 About Me:
 
-- Pronouns: he/him  
+- Pronoun: he/him  
 - Student at a higher technical school for IT.  
 - Currently working on an Electron app built with JavaScript, HTML, and CSS called [WebSumize](https://github.com/Alexius2408/WebSumize).  
 - Enjoy coding small projects.
