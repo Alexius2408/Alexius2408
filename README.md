@@ -19,8 +19,8 @@
 
 <p>
   <img src="https://raw.githubusercontent.com/Alexius2408/Alexius2408/main/generated/status-online.svg?v=1787162881834" id="status-online-img" />
-  <a href="https://open.spotify.com/track/5cES7srNfCUqpTQs8gTNMv" id="spotify-link">
-    <img src="https://raw.githubusercontent.com/Alexius2408/Alexius2408/main/generated/status-listening.svg?v=1787163633470" id="status-listening-img" />
+  <a href="https://open.spotify.com/track/5LQzMV9ZiHe4Z83rGsLZUX" id="spotify-link">
+    <img src="https://raw.githubusercontent.com/Alexius2408/Alexius2408/main/generated/status-listening.svg?v=1787163685978" id="status-listening-img" />
   </a>
 </p>
 
