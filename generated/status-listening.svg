@@ -1,7 +1,7 @@
 
 <svg
   xmlns="http://www.w3.org/2000/svg"
-  width="272"
+  width="503"
   height="28"
   role="img"
 >
@@ -14,7 +14,7 @@
 
     <rect
       x="108"
-      width="164"
+      width="395"
       height="28"
       fill="#10b981"
     />
@@ -29,12 +29,12 @@
     >listening to</text>
 
     <text
-      x="190"
+      x="305.5"
       y="18"
       fill="#fff"
       text-anchor="middle"
       font-family="Arial,sans-serif"
       font-size="12"
-    >Bomboclaat — Dropnik</text>
+    >Yodel Techno (mit Takeo Ischi) — Sääftig; Takeo Ischi</text>
   
 </svg>
