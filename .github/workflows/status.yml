@@ -16,19 +16,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Check repository files
+        run: |
+          echo "Repository:"
+          pwd
+          echo "Root files:"
+          ls -la
+          echo "Scripts:"
+          ls -la scripts
+
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: 22
-
-      - name: Check files
-        run: |
-          echo "Current directory:"
-          pwd
-          echo "Files:"
-          ls -la
-          echo "Scripts:"
-          ls -la scripts
 
       - name: Generate status
         env:
