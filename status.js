@@ -61,14 +61,9 @@ async function main() {
       "#10b981"
     )
   );
-
-  console.log({
-    status,
-    listening,
-  });
 }
 
-function escapeXml(value) {
+function formatXml(value) {
   return String(value)
     .replace(/&/g, "&amp;")
     .replace(/</g, "&lt;")
@@ -78,8 +73,8 @@ function escapeXml(value) {
 }
 
 function badge(label, value, color) {
-  label = escapeXml(label);
-  value = escapeXml(value);
+  label = formatXml(label);
+  value = formatXml(value);
 
   const labelWidth = Math.max(90, label.length * 7 + 24);
   const valueWidth = Math.max(100, value.length * 7 + 24);
