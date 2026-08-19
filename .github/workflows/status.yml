@@ -4,36 +4,50 @@ on:
   schedule:
     - cron: "*/5 * * * *"
   workflow_dispatch:
-
-permissions:
-  contents: write
+  push:
+    branches:
+      - main
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
+        with:
+          ref: main
 
-      - name: Check repository files
-        run: |
-          echo "Repository:"
-          pwd
-          echo "Root files:"
-          ls -la
-          echo "Scripts:"
-          ls -la scripts
-
-      - name: Setup Node
-        uses: actions/setup-node@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v5
         with:
           node-version: 22
+
+      - name: Check status script
+        run: |
+          echo "Current directory:"
+          pwd
+
+          echo "Repository files:"
+          ls -la
+
+          echo "Checking status.js:"
+          test -f status.js
+          echo "status.js found!"
 
       - name: Generate status
         env:
           DISCORD_ID: ${{ secrets.DISCORD_ID }}
-        run: node scripts/status.js
+        run: node ./status.js
+
+      - name: Check generated files
+        run: |
+          echo "Generated files:"
+          ls -la generated
 
       - name: Commit changes
         run: |
@@ -42,6 +56,9 @@ jobs:
 
           git add generated/status-online.svg generated/status-listening.svg
 
-          git diff --cached --quiet || git commit -m "Update Discord status"
-
-          git push
+          if git diff --cached --quiet; then
+            echo "No status changes."
+          else
+            git commit -m "Update Discord status"
+            git push origin main
+          fi
