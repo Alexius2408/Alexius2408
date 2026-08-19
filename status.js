@@ -26,14 +26,20 @@ async function main() {
   const offline = data.discord_status === "offline"
 
   let songTitle = "Nothing";
+  let artists = ""
   let songLink = "https://open.spotify.com/user/31ikvkn2ygnqroneptawkkyr2yp4";
 
   if (data.listening_to_spotify && data.spotify) {
     const song = data.spotify.song || "";
+    const artists = data.spotify.artist || ""
     const trackId = data.spotify.track_id || "";
 
     if (song) {
       songTitle = song;
+    }
+
+    if (artists) {
+      songTitle = `${songTitle} - ${artists}`
     }
 
     if (trackId) {
@@ -44,15 +50,16 @@ async function main() {
   updateReadme(songLink, songTitle, offline);
 }
 
-function reformatUrl(value) {
+function reformatForWebsite(value) {
   return String(value)
+    .replace(/;/g, ",")
     .replace(/-/g, "--")
     .replace(/_/g, "__")
     .replace(/ /g, "_");
 }
 
 function spotifyListeningUrl(songTitle, songLink) {
-  const path = `${encodeURIComponent(reformatUrl(songTitle))}-555555`;
+  const path = `${encodeURIComponent(reformatForWebsite(songTitle))}-555555`;
 
   const params = new URLSearchParams({
     style: "for-the-badge",
