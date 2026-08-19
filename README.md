@@ -19,8 +19,8 @@
 
 <p>
   <img src="./generated/status-online.svg?v=1787162881834" id="status-online-img" />
-  <a href="https://open.spotify.com/track/6HNhn75avS6POORUzUpi70" id="spotify-link">
-    <img src="./generated/status-listening.svg?v=1787162928491" id="status-listening-img" />
+  <a href="https://open.spotify.com/track/2CIEZz7OVt03UFp6baWTpN" id="spotify-link">
+    <img src="./generated/status-listening.svg?v=1787163381701" id="status-listening-img" />
   </a>
 </p>
 
