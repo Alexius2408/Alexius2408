@@ -225,12 +225,12 @@ The player fights through waves of enemies, manages weapons, and tries to surviv
 
 ## Links
 
-<div align="center" style="margin-left: 70px;">
+<div align="center" style="margin-left:75px">
 
 <a href="https://github.com/Alexius2408">
   <img src="https://img.shields.io/badge/GitHub-93382c?style=for-the-badge&logo=github&logoColor=white&labelColor=ba6d00" height="38" alt="GitHub" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://github.com/Alexius2408?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-244c6d?style=for-the-badge&logo=git&logoColor=white&labelColor=688d5b" height="38" alt="Repositories" />
 </a>
