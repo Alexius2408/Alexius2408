@@ -43,7 +43,14 @@ jobs:
 
           if git diff --cached --quiet; then
             echo "No status changes."
-          else
-            git commit -m "Automatic: Update Discord status"
-            git push origin main
+            exit 0
           fi
+
+          git commit -m "Automatic: Update Discord status"
+
+          SHA=$(git rev-parse HEAD)
+          node ./img_sha_url.js "$SHA"
+          git add README.md
+          git commit -m "Automatic: set status images to $SHA"
+
+          git push origin main

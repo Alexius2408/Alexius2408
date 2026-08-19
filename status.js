@@ -49,7 +49,7 @@ async function main() {
 
   fs.mkdirSync("generated", { recursive: true });
 
-  const onlineChanged = writeIfChanged(
+  writeIfChanged(
     "generated/status-online.svg",
     badge(
       "currently",
@@ -58,7 +58,7 @@ async function main() {
     )
   );
 
-  const listeningChanged = writeIfChanged(
+  writeIfChanged(
     "generated/status-listening.svg",
     badge(
       "listening to",
@@ -67,7 +67,7 @@ async function main() {
     )
   );
 
-  updateReadme(songLink, onlineChanged, listeningChanged);
+  updateSpotifyLink(songLink);
 }
 
 function writeIfChanged(path, content) {
@@ -81,32 +81,17 @@ function writeIfChanged(path, content) {
   return true;
 }
 
-function updateReadme(songLink, onlineChanged, listeningChanged) {
+function updateSpotifyLink(songLink) {
   const readmePath = "README.md";
-  const original = fs.readFileSync(readmePath, "utf8");
-  let readme = original;
+  const readme = fs.readFileSync(readmePath, "utf8");
 
-  readme = readme.replace(
+  const updated = readme.replace(
     /(<a href=")[^"]*("\s+id="spotify-link">)/,
     `$1${songLink}$2`
   );
 
-  if (onlineChanged) {
-    readme = readme.replace(
-      /(status-online\.svg\?v=)\d+/,
-      `$1${Date.now()}`
-    );
-  }
-
-  if (listeningChanged) {
-    readme = readme.replace(
-      /(status-listening\.svg\?v=)\d+/,
-      `$1${Date.now()}`
-    );
-  }
-
-  if (readme !== original) {
-    fs.writeFileSync(readmePath, readme);
+  if (updated !== readme) {
+    fs.writeFileSync(readmePath, updated);
   }
 }
 
