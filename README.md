@@ -213,32 +213,10 @@ The player fights through waves of enemies, manages weapons, and tries to surviv
 
 ## Current Focus
 
-<div style="background-color:#242526; border-radius:8px; padding:16px; font-size:15px;">
-
-<span style="color:#B8BB26; font-size:17px;">learning:</span><br>
-<span style="color:#D0B47A">-</span> <span style="color:#CA957F">TypeScript</span><br>
-<span style="color:#D0B47A">-</span> <span style="color:#CA957F">JavaScript</span><br>
-<span style="color:#D0B47A">-</span> <span style="color:#CA957F">Git/GitHub</span><br>
-<span style="color:#D0B47A">-</span> <span style="color:#CA957F">Java</span><br>
-<span style="color:#D0B47A">-</span> <span style="color:#CA957F">Raspberry Pi Pico</span>
-
-<span style="display:block;height:1px"></span>
-
-<span style="color:#B8BB26; font-size:16px;">building:</span><br>
-<span style="color:#D0B47A">-</span> <span style="color:#CA957F">WebSumize</span><br>
-<span style="color:#D0B47A">-</span> <span style="color:#CA957F">Robotic arm that plays chess against you</span>
-
-<span style="display:block;height:1px"></span>
-
-<span style="color:#B8BB26; font-size:16px;">open_to:</span><br>
-<span style="color:#D0B47A">-</span> <span style="color:#CA957F">Collaboration on software projects</span>
-
-<span style="display:block;height:1px"></span>
-
-<span style="color:#B8BB26; font-size:16px;">future:</span><br>
-<span style="color:#D0B47A">-</span> <span style="color:#CA957F">Game development (Unity)</span><br>
-<span style="color:#D0B47A">-</span> <span style="color:#CA957F">C, C++ and C#</span>
-
+<div style="background-color:#242526; border-radius:8px; padding:1px;">
+<p align="center">
+  <img src="./assets/about_me.svg" alt="About me">
+</p>
 </div>
 
 <br/><br/>

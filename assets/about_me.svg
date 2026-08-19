@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="450" viewBox="0 0 620 450">
+  <rect width="620" height="450" rx="8" fill="#242526"/>
+
+  <g
+    font-family="Arial, Helvetica, sans-serif"
+    text-anchor="middle"
+  >
+    <!-- learning -->
+    <text x="310" y="40" fill="#B8BB26" font-size="17">learning:</text>
+
+    <text x="310" y="62" fill="#CA957F" font-size="15">- TypeScript</text>
+    <text x="310" y="84" fill="#CA957F" font-size="15">- JavaScript</text>
+    <text x="310" y="106" fill="#CA957F" font-size="15">- Git/GitHub</text>
+    <text x="310" y="128" fill="#CA957F" font-size="15">- Java</text>
+    <text x="310" y="150" fill="#CA957F" font-size="15">- Raspberry Pi Pico</text>
+
+    <!-- building -->
+    <text x="310" y="195" fill="#B8BB26" font-size="16">building:</text>
+
+    <text x="310" y="217" fill="#CA957F" font-size="15">- WebSumize</text>
+    <text x="310" y="239" fill="#CA957F" font-size="15">- Robotic arm that plays chess against you</text>
+
+    <!-- open_to -->
+    <text x="310" y="284" fill="#B8BB26" font-size="16">open_to:</text>
+
+    <text x="310" y="306" fill="#CA957F" font-size="15">- Collaboration on software projects</text>
+
+    <!-- future -->
+    <text x="310" y="351" fill="#B8BB26" font-size="16">future:</text>
+
+    <text x="310" y="373" fill="#CA957F" font-size="15">- Game development (Unity)</text>
+    <text x="310" y="395" fill="#CA957F" font-size="15">- C, C++ and C#</text>
+  </g>
+</svg>

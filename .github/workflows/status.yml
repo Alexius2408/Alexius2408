@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "*/5 * * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   update:
@@ -26,18 +23,6 @@ jobs:
         uses: actions/setup-node@v5
         with:
           node-version: 22
-
-      - name: Check status script
-        run: |
-          echo "Current directory:"
-          pwd
-
-          echo "Repository files:"
-          ls -la
-
-          echo "Checking status.js:"
-          test -f status.js
-          echo "status.js found!"
 
       - name: Generate status
         env:
