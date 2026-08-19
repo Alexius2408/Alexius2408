@@ -19,7 +19,7 @@
 
 <p>
   <img src="https://raw.githubusercontent.com/Alexius2408/Alexius2408/main/generated/status-online.svg" id="status-online-img" />
-  <a href="https://open.spotify.com/track/10seI1aWbosvrnlA9Cidhc" id="spotify-link">
+  <a href="https://open.spotify.com/track/1aE8hNxLG8eTS1jbVYu5Au" id="spotify-link">
     <img src="https://raw.githubusercontent.com/Alexius2408/Alexius2408/main/generated/status-listening.svg" id="status-listening-img" />
   </a>
 </p>
