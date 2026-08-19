@@ -23,22 +23,27 @@ async function main() {
 
   const data = json.data;
 
-  // ONLY expose these two values.
   const status =
     data.discord_status === "offline"
       ? "offline"
       : "online";
 
   let listening = "nothing";
+  let songLink = null;
 
   if (data.listening_to_spotify && data.spotify) {
     const song = data.spotify.song || "";
     const artist = data.spotify.artist || "";
+    const trackId = data.spotify.track_id || "";
 
     if (song && artist) {
       listening = `${song} — ${artist}`;
     } else if (song) {
       listening = song;
+    }
+
+    if (trackId) {
+      songLink = `https://open.spotify.com/track/${trackId}`;
     }
   }
 
@@ -58,7 +63,8 @@ async function main() {
     badge(
       "listening to",
       listening,
-      "#10b981"
+      "#10b981",
+      songLink
     )
   );
 }
@@ -72,20 +78,60 @@ function formatXml(value) {
     .replace(/'/g, "&apos;");
 }
 
-function badge(label, value, color) {
+function badge(label, value, color, link = null) {
   label = formatXml(label);
   value = formatXml(value);
+  color = formatXml(color);
 
   const labelWidth = Math.max(90, label.length * 7 + 24);
   const valueWidth = Math.max(100, value.length * 7 + 24);
-
   const width = labelWidth + valueWidth;
 
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="28" role="img">
-  <rect width="${labelWidth}" height="28" fill="#555"/>
-  <rect x="${labelWidth}" width="${valueWidth}" height="28" fill="${color}"/>
-  <text x="${labelWidth / 2}" y="18" fill="#fff" text-anchor="middle" font-family="Arial,sans-serif" font-size="12">${label}</text>
-  <text x="${labelWidth + valueWidth / 2}" y="18" fill="#fff" text-anchor="middle" font-family="Arial,sans-serif" font-size="12">${value}</text>
+  const content = `
+    <rect
+      width="${labelWidth}"
+      height="28"
+      fill="#555"
+    />
+
+    <rect
+      x="${labelWidth}"
+      width="${valueWidth}"
+      height="28"
+      fill="${color}"
+    />
+
+    <text
+      x="${labelWidth / 2}"
+      y="18"
+      fill="#fff"
+      text-anchor="middle"
+      font-family="Arial,sans-serif"
+      font-size="12"
+    >${label}</text>
+
+    <text
+      x="${labelWidth + valueWidth / 2}"
+      y="18"
+      fill="#fff"
+      text-anchor="middle"
+      font-family="Arial,sans-serif"
+      font-size="12"
+    >${value}</text>
+  `;
+
+  const wrappedContent = link
+    ? `<a href="${formatXml(link)}">${content}</a>`
+    : content;
+
+  return `
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="${width}"
+  height="28"
+  role="img"
+>
+  ${wrappedContent}
 </svg>`;
 }
 
