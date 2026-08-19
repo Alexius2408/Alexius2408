@@ -39,7 +39,7 @@ jobs:
           git config user.name ${{ secrets.GITHUBNAME }}
           git config user.email ${{ secrets.GITHUBNOREPLYEMAIL }}
 
-          git add generated/status-online.svg generated/status-listening.svg
+          git add generated/status-online.svg generated/status-listening.svg README.md
 
           if git diff --cached --quiet; then
             echo "No status changes."

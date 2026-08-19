@@ -19,7 +19,9 @@
 
 <p>
   <img src="./generated/status-online.svg" />
-  <img src="./generated/status-listening.svg" />
+  <a href="https://open.spotify.com/user/31ikvkn2ygnqroneptawkkyr2yp4" id="spotify-link">
+    <img src="./generated/status-listening.svg" />
+  </a>
 </p>
 
 Hi, I'm Alexander (he/him), a student at a higher technical school for IT. At the moment I'm working on [WebSumize](https://github.com/Alexius2408/WebSumize), an Electron app built with JavaScript, HTML and CSS. I really enjoy building small projects on the side. Outside of coding I'm usually swimming or snorkeling, bouldering, or playing video games. I also like listening to music.

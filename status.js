@@ -47,6 +47,8 @@ async function main() {
     }
   }
 
+  updateSpotifyLink(songLink);
+
   fs.mkdirSync("generated", { recursive: true });
 
   fs.writeFileSync(
@@ -63,10 +65,23 @@ async function main() {
     badge(
       "listening to",
       listening,
-      "#10b981",
-      songLink
+      "#10b981"
     )
   );
+}
+
+function updateSpotifyLink(songLink) {
+  const readmePath = "README.md";
+  const readme = fs.readFileSync(readmePath, "utf8");
+
+  const updated = readme.replace(
+    /(<a href=")[^"]*("\s+id="spotify-link">)/,
+    `$1${songLink}$2`
+  );
+
+  if (updated !== readme) {
+    fs.writeFileSync(readmePath, updated);
+  }
 }
 
 function formatXml(value) {
@@ -78,7 +93,7 @@ function formatXml(value) {
     .replace(/'/g, "&apos;");
 }
 
-function badge(label, value, color, link = null) {
+function badge(label, value, color) {
   label = formatXml(label);
   value = formatXml(value);
   color = formatXml(color);
@@ -120,10 +135,6 @@ function badge(label, value, color, link = null) {
     >${value}</text>
   `;
 
-  const wrappedContent = link
-    ? `<a href="${formatXml(link)}">${content}</a>`
-    : content;
-
   return `
 <svg
   xmlns="http://www.w3.org/2000/svg"
@@ -131,7 +142,7 @@ function badge(label, value, color, link = null) {
   height="28"
   role="img"
 >
-  ${wrappedContent}
+  ${content}
 </svg>`;
 }
 
