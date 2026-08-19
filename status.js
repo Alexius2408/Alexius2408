@@ -23,23 +23,17 @@ async function main() {
 
   const data = json.data;
 
-  const status =
-    data.discord_status === "offline"
-      ? "offline"
-      : "online";
+  const offline = data.discord_status === "offline"
 
-  let listening = "nothing";
+  let songTitle = "Nothing";
   let songLink = "https://open.spotify.com/user/31ikvkn2ygnqroneptawkkyr2yp4";
 
   if (data.listening_to_spotify && data.spotify) {
     const song = data.spotify.song || "";
-    const artist = data.spotify.artist || "";
     const trackId = data.spotify.track_id || "";
 
-    if (song && artist) {
-      listening = `${song} — ${artist}`;
-    } else if (song) {
-      listening = song;
+    if (song) {
+      songTitle = song;
     }
 
     if (trackId) {
@@ -47,114 +41,59 @@ async function main() {
     }
   }
 
-  fs.mkdirSync("generated", { recursive: true });
-
-  writeIfChanged(
-    "generated/status-online.svg",
-    badge(
-      "currently",
-      status,
-      status === "online" ? "#22c55e" : "#ef4444"
-    )
-  );
-
-  writeIfChanged(
-    "generated/status-listening.svg",
-    badge(
-      "listening to",
-      listening,
-      "#10b981"
-    )
-  );
-
-  updateSpotifyLink(songLink);
+  updateReadme(songLink, songTitle, offline);
 }
 
-function writeIfChanged(path, content) {
-  const existing = fs.existsSync(path) ? fs.readFileSync(path, "utf8") : null;
-
-  if (existing === content) {
-    return false;
-  }
-
-  fs.writeFileSync(path, content);
-  return true;
+function reformatUrl(value) {
+  return String(value)
+    .replace(/-/g, "--")
+    .replace(/_/g, "__")
+    .replace(/ /g, "_");
 }
 
-function updateSpotifyLink(songLink) {
+function spotifyListeningUrl(songTitle, songLink) {
+  const path = `${encodeURIComponent(reformatUrl(songTitle))}-555555`;
+
+  const params = new URLSearchParams({
+    style: "for-the-badge",
+    logo: "spotify",
+    label: "Listening_to",
+    color: "10b981",
+    link: songLink,
+  });
+
+  return `https://img.shields.io/badge/${path}?${params.toString()}`;
+}
+
+function statusUrl(offline) {
+  return offline
+    ? "https://img.shields.io/badge/offline-ff000?style=for-the-badge&logo=facepunch&label=currently&color=ef4444"
+    : "https://img.shields.io/badge/online-ff000?style=for-the-badge&logo=dependabot&label=currently&color=22c55e";
+}
+
+function updateReadme(songLink, songTitle, offline) {
   const readmePath = "README.md";
-  const readme = fs.readFileSync(readmePath, "utf8");
+  const original = fs.readFileSync(readmePath, "utf8");
+  let readme = original;
 
-  const updated = readme.replace(
+  readme = readme.replace(
     /(<a href=")[^"]*("\s+id="spotify-link">)/,
     `$1${songLink}$2`
   );
 
-  if (updated !== readme) {
-    fs.writeFileSync(readmePath, updated);
+  readme = readme.replace(
+    /(<img src=")[^"]*("\s+id="status-listening-img")/,
+    `$1${spotifyListeningUrl(songTitle, songLink)}$2`
+  );
+
+  readme = readme.replace(
+    /(<img src=")[^"]*("\s+id="status-online-img")/,
+    `$1${statusUrl(offline)}$2`
+  );
+
+  if (readme !== original) {
+    fs.writeFileSync(readmePath, readme);
   }
-}
-
-function formatXml(value) {
-  return String(value)
-    .replace(/&/g, "&amp;")
-    .replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;")
-    .replace(/"/g, "&quot;")
-    .replace(/'/g, "&apos;");
-}
-
-function badge(label, value, color) {
-  label = formatXml(label);
-  value = formatXml(value);
-  color = formatXml(color);
-
-  const labelWidth = Math.max(90, label.length * 7 + 24);
-  const valueWidth = Math.max(100, value.length * 7 + 24);
-  const width = labelWidth + valueWidth;
-
-  const content = `
-    <rect
-      width="${labelWidth}"
-      height="28"
-      fill="#555"
-    />
-
-    <rect
-      x="${labelWidth}"
-      width="${valueWidth}"
-      height="28"
-      fill="${color}"
-    />
-
-    <text
-      x="${labelWidth / 2}"
-      y="18"
-      fill="#fff"
-      text-anchor="middle"
-      font-family="Arial,sans-serif"
-      font-size="12"
-    >${label}</text>
-
-    <text
-      x="${labelWidth + valueWidth / 2}"
-      y="18"
-      fill="#fff"
-      text-anchor="middle"
-      font-family="Arial,sans-serif"
-      font-size="12"
-    >${value}</text>
-  `;
-
-  return `
-<svg
-  xmlns="http://www.w3.org/2000/svg"
-  width="${width}"
-  height="28"
-  role="img"
->
-  ${content}
-</svg>`;
 }
 
 main().catch((error) => {

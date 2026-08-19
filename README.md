@@ -18,9 +18,9 @@
 ## About
 
 <p>
-  <img src="https://raw.githubusercontent.com/Alexius2408/Alexius2408/main/generated/status-online.svg" id="status-online-img" />
+  <img src="https://img.shields.io/badge/online-ff000?style=for-the-badge&logo=dependabot&label=currently&color=22c55e" id="status-online-img" />
   <a href="https://open.spotify.com/track/1aE8hNxLG8eTS1jbVYu5Au" id="spotify-link">
-    <img src="https://raw.githubusercontent.com/Alexius2408/Alexius2408/main/generated/status-listening.svg" id="status-listening-img" />
+    <img src="https://img.shields.io/badge/Nothing-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981" id="status-listening-img" />
   </a>
 </p>
 

@@ -29,28 +29,16 @@ jobs:
           DISCORD_ID: ${{ secrets.DISCORD_ID }}
         run: node ./status.js
 
-      - name: Check generated files
-        run: |
-          echo "Generated files:"
-          ls -la generated
-
       - name: Commit changes
         run: |
           git config user.name ${{ secrets.GITHUBNAME }}
           git config user.email ${{ secrets.GITHUBNOREPLYEMAIL }}
 
-          git add generated/status-online.svg generated/status-listening.svg README.md
+          git add README.md
 
           if git diff --cached --quiet; then
             echo "No status changes."
-            exit 0
+          else
+            git commit -m "Automatic: Update Discord status"
+            git push origin main
           fi
-
-          git commit -m "Automatic: Update Discord status"
-
-          SHA=$(git rev-parse HEAD)
-          node ./img_sha_url.js "$SHA"
-          git add README.md
-          git commit -m "Automatic: set status images to $SHA"
-
-          git push origin main
