@@ -1,7 +1,7 @@
 
 <svg
   xmlns="http://www.w3.org/2000/svg"
-  width="440"
+  width="272"
   height="28"
   role="img"
 >
@@ -14,7 +14,7 @@
 
     <rect
       x="108"
-      width="332"
+      width="164"
       height="28"
       fill="#10b981"
     />
@@ -29,12 +29,12 @@
     >listening to</text>
 
     <text
-      x="274"
+      x="190"
       y="18"
       fill="#fff"
       text-anchor="middle"
       font-family="Arial,sans-serif"
       font-size="12"
-    >Techno bis zur Hochzeit — Schleini; Schillah</text>
+    >Bomboclaat — Dropnik</text>
   
 </svg>
