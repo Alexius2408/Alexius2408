@@ -1,4 +1,4 @@
-name: Update Discord Status
+name: Update Status
 
 on:
   schedule:

@@ -18,9 +18,9 @@
 ## About
 
 <p>
-  <img src="./generated/status-online.svg" />
+  <img src="./generated/status-online.svg?v=0" id="status-online-img" />
   <a href="https://open.spotify.com/user/31ikvkn2ygnqroneptawkkyr2yp4" id="spotify-link">
-    <img src="./generated/status-listening.svg" />
+    <img src="./generated/status-listening.svg?v=0" id="status-listening-img" />
   </a>
 </p>
 

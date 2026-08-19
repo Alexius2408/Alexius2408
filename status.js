@@ -47,11 +47,9 @@ async function main() {
     }
   }
 
-  updateSpotifyLink(songLink);
-
   fs.mkdirSync("generated", { recursive: true });
 
-  fs.writeFileSync(
+  const onlineChanged = writeIfChanged(
     "generated/status-online.svg",
     badge(
       "currently",
@@ -60,7 +58,7 @@ async function main() {
     )
   );
 
-  fs.writeFileSync(
+  const listeningChanged = writeIfChanged(
     "generated/status-listening.svg",
     badge(
       "listening to",
@@ -68,19 +66,47 @@ async function main() {
       "#10b981"
     )
   );
+
+  updateReadme(songLink, onlineChanged, listeningChanged);
 }
 
-function updateSpotifyLink(songLink) {
-  const readmePath = "README.md";
-  const readme = fs.readFileSync(readmePath, "utf8");
+function writeIfChanged(path, content) {
+  const existing = fs.existsSync(path) ? fs.readFileSync(path, "utf8") : null;
 
-  const updated = readme.replace(
+  if (existing === content) {
+    return false;
+  }
+
+  fs.writeFileSync(path, content);
+  return true;
+}
+
+function updateReadme(songLink, onlineChanged, listeningChanged) {
+  const readmePath = "README.md";
+  const original = fs.readFileSync(readmePath, "utf8");
+  let readme = original;
+
+  readme = readme.replace(
     /(<a href=")[^"]*("\s+id="spotify-link">)/,
     `$1${songLink}$2`
   );
 
-  if (updated !== readme) {
-    fs.writeFileSync(readmePath, updated);
+  if (onlineChanged) {
+    readme = readme.replace(
+      /(status-online\.svg\?v=)\d+/,
+      `$1${Date.now()}`
+    );
+  }
+
+  if (listeningChanged) {
+    readme = readme.replace(
+      /(status-listening\.svg\?v=)\d+/,
+      `$1${Date.now()}`
+    );
+  }
+
+  if (readme !== original) {
+    fs.writeFileSync(readmePath, readme);
   }
 }
 
