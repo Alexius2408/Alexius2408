@@ -29,7 +29,7 @@ async function main() {
       : "online";
 
   let listening = "nothing";
-  let songLink = null;
+  let songLink = "https://open.spotify.com/user/31ikvkn2ygnqroneptawkkyr2yp4";
 
   if (data.listening_to_spotify && data.spotify) {
     const song = data.spotify.song || "";
