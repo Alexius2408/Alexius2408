@@ -17,14 +17,27 @@
 
 ## About
 
-<p>
-  <img src="https://img.shields.io/badge/online-ff000?style=for-the-badge&logo=dependabot&label=currently&color=22c55e" id="status-online-img" />
-  <a href="https://open.spotify.com/track/1aE8hNxLG8eTS1jbVYu5Au" id="spotify-link">
-    <img src="https://img.shields.io/badge/Nothing-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981" id="status-listening-img" />
-  </a>
-</p>
+<div class="status">
+  <div class="status-badges">
+    <img
+      src="https://img.shields.io/badge/online-ff000?style=for-the-badge&logo=dependabot&label=currently&color=22c55e"
+      alt="Currently online"
+    />
+    <a href="https://open.spotify.com/track/1aE8hNxLG8eTS1jbVYu5Au" target="_blank" rel="noopener noreferrer">
+      <img
+        src="https://img.shields.io/badge/Nothing-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981"
+        alt="Currently listening to Nothing"
+        title="Click to open Spotify"
+      />
+    </a>
+  </div>
 
-Hi, I'm Alexander (he/him), a student at a higher technical school for IT. At the moment I'm working on [WebSumize](https://github.com/Alexius2408/WebSumize), an Electron app built with JavaScript, HTML and CSS. I really enjoy building small projects on the side. Outside of coding I'm usually swimming or snorkeling, bouldering, or playing video games. I also like listening to music.
+  <small>Updates every 2-5 minutes</small>
+</div>
+
+<br>
+
+Hi, I'm Alexander (he/him), a student at a higher technical school for IT. At the moment I'm working on [WebSumize](https://github.com/Alexius2408/WebSumize), an Electron app built with JavaScript, HTML and CSS. I really enjoy building small projects on the side. Outside of coding I'm usually swimming or snorkeling, bouldering, ski, snowboarding or playing video games. I also like listening to music.
 
 ## Tech Stack
 
@@ -87,13 +100,13 @@ Instead of opening the WebUntis website every time, it shows the most important 
 
 <br />
 
-|                |                                                                              |
-| :------------- | :--------------------------------------------------------------------------- |
-| **Built With** | HTML, JavaScript, CSS                                                        |
-| **Purpose**    | Gets WebUntis data and displays it in a good-looking way                     |
-| **Highlights** | Many parts of the interface can be customized                                |
-| **Status**     | In progress                                                                  |
-| **Repo**       | [github.com/Alexius2408/WebSumize](https://github.com/Alexius2408/WebSumize) |
+| | |
+| :-- | :-- |
+| **Built With** | Electron, HTML, JavaScript, CSS |
+| **Function** | Gets WebUntis data and displays it in a good-looking way |
+| **Highlights** | Many parts of the interface can be customized |
+| **Status** | In progress |
+| **Repo** | [github.com/Alexius2408/WebSumize](https://github.com/Alexius2408/WebSumize) |
 
 </details>
 
@@ -130,13 +143,13 @@ It connects to our school server to retrieve and send messages in real time.
 
 <br />
 
-|                |                                                                               |
-| :------------- | :---------------------------------------------------------------------------- |
-| **Built With** | HTML, JavaScript, CSS                                                         |
-| **Purpose**    | Gets and sends messages and lets users create new chat rooms                  |
+| | |
+| :-- | :-- |
+| **Built With** | HTML, JavaScript, CSS |
+| **Purpose** | Gets and sends messages and lets users create new chat rooms |
 | **Highlights** | Your messages look different from others and users can have separate accounts |
-| **Status**     | Archived                                                                      |
-| **Repo**       | [github.com/Alexius2408/Nexus](https://github.com/Alexius2408/Nexus)          |
+| **Status** | Archived |
+| **Repo** | [github.com/Alexius2408/Nexus](https://github.com/Alexius2408/Nexus) |
 
 </details>
 
@@ -173,14 +186,14 @@ The player fights through waves of enemies, manages weapons, and tries to surviv
 
 <br />
 
-|                |                                                                        |
-| :------------- | :--------------------------------------------------------------------- |
-| **Built With** | Python, Pygame, PyOpenGL                                               |
-| **Purpose**    | Wave-based 3D shooter focused on combat and survival                   |
-| **Highlights** | Creating a 3D environment using Pygame and PyOpenGL                    |
-| **Assets**     | All 3D models, graphics, and sounds were created by us                 |
-| **Status**     | Archived                                                               |
-| **Repo**       | [github.com/Alexius2408/DEMISE](https://github.com/Alexius2408/DEMISE) |
+| | |
+| :-- | :-- |
+| **Built With** | Python, Pygame, PyOpenGL |
+| **Function** | Wave-based 3D shooter |
+| **Highlights** | Creating a 3D environment using Pygame and PyOpenGL |
+| **Assets** | All 3D models, graphics, and sounds were created by us |
+| **Status** | Archived |
+| **Repo** | [github.com/Alexius2408/DEMISE](https://github.com/Alexius2408/DEMISE) |
 
 </details>
 
@@ -232,14 +245,12 @@ The player fights through waves of enemies, manages weapons, and tries to surviv
 
 <div align="center">
 
-<a href="https://github.com/Alexius2408">
+<a href="https://github.com/Alexius2408" style="margin-right:10px;">
   <img src="https://img.shields.io/badge/GitHub-93382c?style=for-the-badge&logo=github&logoColor=white&labelColor=ba6d00" height="50" alt="GitHub" />
 </a>
-&nbsp;
-<a href="https://discordapp.com/users/961854452946567178" target="_blank" rel="noopener noreferrer">
+<a href="https://discordapp.com/users/961854452946567178" target="_blank" rel="noopener noreferrer"  style="margin-right:10px;">
   <img src="https://img.shields.io/badge/alexius__mc-5165F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=3a48b2" height="50" alt="Discord" />
 </a>
-&nbsp;
 <a href="https://github.com/Alexius2408?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-244c6d?style=for-the-badge&logo=git&logoColor=white&labelColor=688d5b" height="50" alt="Repositories" />
 </a>
