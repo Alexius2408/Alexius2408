@@ -32,7 +32,7 @@
     </a>
   </div>
 
-  <small>Updates every 2-5 minutes</small>
+  <small>Updates every 2-7 minutes</small>
 </div>
 
 <br>
@@ -261,3 +261,6 @@ The player fights through waves of enemies, manages weapons, and tries to surviv
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E5A13C&text=thanks%20for%20scrolling&height=140&section=footer&fontSize=30&fontColor=282828&fontAlignY=75" width="100%" alt="footer banner" />
 
 </div>
+
+
+<!-- https://cron-job.org -->
