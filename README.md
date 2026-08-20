@@ -32,7 +32,7 @@
     </a>
   </div>
 
-  <small>Updates every 2-7 minutes</small>
+  <small>Updates every 2-7 minutes (Ctrl + Shift + R)</small>
 </div>
 
 <br>
