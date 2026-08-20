@@ -1,4 +1,4 @@
-name: Bot: Update Status
+name: Bot Update Status
 
 on:
   schedule:
