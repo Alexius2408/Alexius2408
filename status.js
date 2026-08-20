@@ -84,8 +84,8 @@ function updateReadme(songLink, songTitle, offline) {
   let readme = original;
 
   readme = readme.replace(
-    /(<a href=")[^"]*("\s+id="spotify-link">)/,
-    `$1${songLink}$2`
+    /<a\b[^>]*\bid="spotify-link"[^>]*>/,
+    `<a href="${songLink}" target="_blank" rel="noopener noreferrer" id="spotify-link">`
   );
 
   readme = readme.replace(
