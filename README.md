@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/5cES7srNfCUqpTQs8gTNMv" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Techno_ist_unsere_Welt_(TBTG)_--_The_Boy_The_G-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F5cES7srNfCUqpTQs8gTNMv"
+    <a href="https://open.spotify.com/track/2CIEZz7OVt03UFp6baWTpN" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Love_u_Anyway_--_HIGHTKK%2C_Corbix-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F2CIEZz7OVt03UFp6baWTpN"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
