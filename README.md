@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/6HNhn75avS6POORUzUpi70" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Ich_Schie%C3%9F_Mich_Weg_--_HIGHTKK%2C_DurchGeTekKt-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F6HNhn75avS6POORUzUpi70"
+    <a href="https://open.spotify.com/track/61dlusMa33p9zEPboaI68p" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Wegen_Mir_--_Remix_--_ViruzZ%2C_Young_Flex-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F61dlusMa33p9zEPboaI68p"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
