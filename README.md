@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/7deWUeFm1duEleXUHa1ygH" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Papi_hat_viel_Geld_--_Justin_Pollnik_Remix_--_AlphaBeat%2C_Blondee%2C_Justin_Pollnik%2C_Bade154-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F7deWUeFm1duEleXUHa1ygH"
+    <a href="https://open.spotify.com/track/2CIEZz7OVt03UFp6baWTpN" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Love_u_Anyway_--_HIGHTKK%2C_Corbix-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F2CIEZz7OVt03UFp6baWTpN"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
