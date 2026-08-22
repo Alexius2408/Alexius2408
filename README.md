@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/5cES7srNfCUqpTQs8gTNMv" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Techno_ist_unsere_Welt_(TBTG)_--_The_Boy_The_G-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F5cES7srNfCUqpTQs8gTNMv"
+    <a href="https://open.spotify.com/track/5LQzMV9ZiHe4Z83rGsLZUX" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Techno_bis_zur_Hochzeit_--_Schleini%2C_Schillah-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F5LQzMV9ZiHe4Z83rGsLZUX"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
