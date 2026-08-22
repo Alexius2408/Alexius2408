@@ -43,5 +43,6 @@ jobs:
             echo "No status changes."
           else
             git commit -m "Automatic: Update Discord status"
+            git pull --rebase origin main
             git push origin main
           fi
