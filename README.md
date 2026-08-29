@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/60yVX09q0l2BBddi5oIcyB" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/can't_remember_to_forget_you_(Hardstyle)_--_ZYZZ_POSE-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F60yVX09q0l2BBddi5oIcyB"
+    <a href="https://open.spotify.com/track/2CGGe4rdd5VxpUbf3pMFNZ" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Bass_(8_UHR_10_LIZOT_MIX)_--_Dennis_Dies_Das%2C_LIZOT-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F2CGGe4rdd5VxpUbf3pMFNZ"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
