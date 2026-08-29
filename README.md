@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/user/31ikvkn2ygnqroneptawkkyr2yp4" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Nothing-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Fuser%2F31ikvkn2ygnqroneptawkkyr2yp4"
+    <a href="https://open.spotify.com/track/7LmGlB5dtvPUAqUdEcAk1G" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/I_Like_The_Way_You_Kiss_Me_--_Dynin%2C_TMBR%2C_SANE-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F7LmGlB5dtvPUAqUdEcAk1G"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
