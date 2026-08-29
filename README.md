@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/3foZk0xdUxm7ESNTbJHKMb" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/NO_REPLY_Hardtekk_(Remix)_--_Slowed_--_NTPV%2C_Sei_Lean%2C_GodDamn%2C_BLXDE-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F3foZk0xdUxm7ESNTbJHKMb"
+    <a href="https://open.spotify.com/track/1n7HWJIBX0cWOtj885LuX3" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/99_Luftballons_--_Techno_--_Snoblack-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F1n7HWJIBX0cWOtj885LuX3"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
