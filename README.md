@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/4nKRvSocdEM8Njn7wAJxt9" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/TIMBER_--_Hardstyle_--_ZIFRIOS%2C_Rick.staneke%2C_AnyMoreZ-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F4nKRvSocdEM8Njn7wAJxt9"
+    <a href="https://open.spotify.com/track/2jJPOiXbQWbwVSW1lu76aY" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/M%C3%A4dchen_aus_dem_Osten_Hardtekk_--_DeR_VeRsTaMpFtE-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F2jJPOiXbQWbwVSW1lu76aY"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
