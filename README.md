@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/7xNUwW2juvYPHbwQU9L4t7" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Scream_%26_Shout_--_Martin_Bravi-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F7xNUwW2juvYPHbwQU9L4t7"
+    <a href="https://open.spotify.com/track/6QDx3Kac7eBdERrriUmtE9" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Ava_--_Hardstyle_Version_--_AGONY%2C_astro_raver-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F6QDx3Kac7eBdERrriUmtE9"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
