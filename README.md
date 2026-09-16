@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/44xy0UY81R2CLHyCOEGguY" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Ich_Verachte_--_RAEY-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F44xy0UY81R2CLHyCOEGguY"
+    <a href="https://open.spotify.com/track/2UwHeq6FczbyC2APc3BVpl" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Glauben_--_2.0_--_Marque_S%2C_Monotyp-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F2UwHeq6FczbyC2APc3BVpl"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
