@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/1KYEPH3KSBcQwtQwWWcvKO" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Ring_my_bell_HARDTEKK_(sped_up)_--_seeqrexxx-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F1KYEPH3KSBcQwtQwWWcvKO"
+    <a href="https://open.spotify.com/track/459VaUaDue6mrMAZhniCgl" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/My_Heart_Goes_Boom_--_Dirty_Thirty-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F459VaUaDue6mrMAZhniCgl"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
