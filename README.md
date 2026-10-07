@@ -86,7 +86,7 @@ Hi, I'm Alexander (he/him), a student at a higher technical school for IT. At th
 
 <img src="https://img.shields.io/badge/IN_PROGRESS-98971A?style=flat-square&labelColor=282828" alt="In progress" />
 <img src="https://img.shields.io/badge/HTML-282828?style=flat-square&logo=html5&logoColor=FE8019" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS-282828?style=flat-square&logo=css3&logoColor=83A598" alt="CSS" />
+<img src="https://img.shields.io/badge/CSS-282828?style=flat-square&logo=css&logoColor=83A598" alt="CSS" />
 <img src="https://img.shields.io/badge/JavaScript-282828?style=flat-square&logo=javascript&logoColor=FABD2F" alt="JavaScript" />
 
 <br/><br/>
@@ -117,6 +117,51 @@ Instead of opening the WebUntis website every time, it shows the most important 
 
 <br>
 
+<h1 style="border-bottom: none;">Until - WebUntis</h1>
+
+<br>
+
+<a href="https://github.com/Alexius2408/Until-Webuntis">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Alexius2408&repo=Until-Webuntis&theme=gruvbox&hide_border=false" width="390" alt="Until-Webuntis repository card" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Done-7FBF3F?style=flat-square&labelColor=282828" alt="Done" />
+<img src="https://img.shields.io/badge/HTML-282828?style=flat-square&logo=html5&logoColor=FE8019" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-282828?style=flat-square&logo=css&logoColor=83A598" alt="CSS" />
+<img src="https://img.shields.io/badge/JavaScript-282828?style=flat-square&logo=javascript&logoColor=FABD2F" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Extension-282828?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjRkFCRDJGIiBkPSJNMi40IDYuNkg1LjQ1QS45IC45IDAgMCAwIDYuMTYgNS4xNUEzLjIgMy4yIDAgMSAxIDExLjI0IDUuMTVBLjkgLjkgMCAwIDAgMTEuOTUgNi42SDE1QTIuNCAyLjQgMCAwIDEgMTcuNCA5VjEyLjA1QS45IC45IDAgMCAwIDE4Ljg1IDEyLjc2QTMuMiAzLjIgMCAxIDEgMTguODUgMTcuODRBLjkgLjkgMCAwIDAgMTcuNCAxOC41NVYyMS42QTIuNCAyLjQgMCAwIDEgMTUgMjRIMTEuMTVBLjcgLjcgMCAwIDEgMTAuNiAyMi44N0EyLjQgMi40IDAgMSAwIDYuOCAyMi44N0EuNyAuNyAwIDAgMSA2LjI1IDI0SDIuNEEyLjQgMi40IDAgMCAxIDAgMjEuNlYxNy43NUEuNyAuNyAwIDAgMSAxLjEzIDE3LjJBMi40IDIuNCAwIDEgMCAxLjEzIDEzLjRBLjcgLjcgMCAwIDEgMCAxMi44NVY5QTIuNCAyLjQgMCAwIDEgMi40IDYuNloiLz48L3N2Zz4=" alt="Extension"/>
+
+<br/><br/>
+
+Until is a browser extension for WebUntis that shows which of today's lessons you're the last class in the room.
+
+Those lessons get marked with an emoji, and a notification reminds you shortly before the lesson ends.
+
+<details>
+<summary><b>Project Details</b></summary>
+
+<br />
+
+| | |
+| :-- | :-- |
+| **Built With** | Browser extension (Chrome, Edge, Firefox), HTML, JavaScript, CSS |
+| **Function** | Checks the room timetables and marks every lesson where no class comes into the room after you |
+| **Highlights** | Pick your own emoji, get a notification or alert, different languages |
+| **Status** | Done, but still accepting new language and fixing bugs (if they happen) |
+| **Repo** | [github.com/Alexius2408/Until-Webuntis](https://github.com/Alexius2408/Until-Webuntis) |
+
+</details>
+
+<br />
+<br />
+
+
+---
+
+<br>
+
 <h1 style="border-bottom: none;">Nexus</h1>
 
 <br>
@@ -129,7 +174,7 @@ Instead of opening the WebUntis website every time, it shows the most important 
 
 <img src="https://img.shields.io/badge/ARCHIVED-928374?style=flat-square&labelColor=282828" alt="Archived" />
 <img src="https://img.shields.io/badge/HTML-282828?style=flat-square&logo=html5&logoColor=FE8019" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS-282828?style=flat-square&logo=css3&logoColor=83A598" alt="CSS" />
+<img src="https://img.shields.io/badge/CSS-282828?style=flat-square&logo=css&logoColor=83A598" alt="CSS" />
 <img src="https://img.shields.io/badge/JavaScript-282828?style=flat-square&logo=javascript&logoColor=FABD2F" alt="JavaScript" />
 
 <br/><br/>
