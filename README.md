@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/1BCG05fjv2wIQ6YV0Uxi82" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/All_My_Friends_--_Takti_%26_Caret-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F1BCG05fjv2wIQ6YV0Uxi82"
+    <a href="https://open.spotify.com/track/0GKn6LVLbQquALABFCknfK" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Kein_Egoist_--_SKETCH-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F0GKn6LVLbQquALABFCknfK"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
