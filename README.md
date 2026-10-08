@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/0b67rE16lbvI9eVsrv02yE" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Uns_zwei_--_Remix_--_ViruzZ%2C_Young_Flex-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F0b67rE16lbvI9eVsrv02yE"
+    <a href="https://open.spotify.com/track/1ZUUbdzlqmJR4GFC19KoHf" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/7_MANN_--_Slowed_--_HARDWICK-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F1ZUUbdzlqmJR4GFC19KoHf"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
