@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/5GSyfjMdJYVTWvMaSyu5Ze" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Harte_Alter_--_R%C3%BCtekker-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F5GSyfjMdJYVTWvMaSyu5Ze"
+    <a href="https://open.spotify.com/track/6BxhO94dF8EMth7dGoUw3B" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Unendlichkeit_--_High_Tekk%2C_indica.-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F6BxhO94dF8EMth7dGoUw3B"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
