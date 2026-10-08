@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/17qpIQNRNWWeOQm6VwT6SN" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Sommerregen_(Nimm_meine_Hand)_--_KXXMA%2C_KushTekK-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F17qpIQNRNWWeOQm6VwT6SN"
+    <a href="https://open.spotify.com/track/42UEQ8KbxbJ9W5LyUpFmwG" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Violent_(Hardtekk)_--_KushTekK-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F42UEQ8KbxbJ9W5LyUpFmwG"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
