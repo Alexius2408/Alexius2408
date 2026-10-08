@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/616qBnyFJVyjOwFxZtb5d3" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Wenn_es_doch_so_gut_l%C3%A4uft_--_Schillah%2C_nozzi%2C_ArniMakeItDrop-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F616qBnyFJVyjOwFxZtb5d3"
+    <a href="https://open.spotify.com/track/57rn2qe21rBYFdCKs7pY2c" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Hassen_--_Justin_Pollnik%2C_Ajo_Felix%2C_ArniMakeItDrop-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F57rn2qe21rBYFdCKs7pY2c"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
