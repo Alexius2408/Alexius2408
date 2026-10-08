@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/7vnkUHfGBB6x5CH4hjdQso" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Tr%C3%A4nen_aus_Kajal_--_Remix_--_ViruzZ-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F7vnkUHfGBB6x5CH4hjdQso"
+    <a href="https://open.spotify.com/track/3wblP9nTLxywJnjeOX1EGR" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/STERNI_TEKK_--_HARDWICK-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F3wblP9nTLxywJnjeOX1EGR"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
