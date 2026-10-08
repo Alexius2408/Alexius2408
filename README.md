@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/user/31ikvkn2ygnqroneptawkkyr2yp4" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Nothing-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Fuser%2F31ikvkn2ygnqroneptawkkyr2yp4"
+    <a href="https://open.spotify.com/track/7tq9Yh5IFmNAIp8VqGIx2s" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Wei%C3%9F_nicht_Weiter_--_Hardtekk_Version_--_DeR_VeRsTaMpFtE-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F7tq9Yh5IFmNAIp8VqGIx2s"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
