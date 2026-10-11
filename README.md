@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/4NIUnYXMUQoE0zCF6s1zfK" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Schau_mich_nicht_so_an_--_Hardtekk_Remix_--_Calypso%2C_Schillah%2C_Lari-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F4NIUnYXMUQoE0zCF6s1zfK"
+    <a href="https://open.spotify.com/track/18KiJqR7aXSXkAoxCofhl0" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Atzin_--_Atzen_Musik_Mix_--_Die_Atzen-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F18KiJqR7aXSXkAoxCofhl0"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
