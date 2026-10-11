@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/1ADRl2OCw7YsNguYcAe3jV" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/I_Run_--_HIGHTKK%2C_ScubaPro%2C_Richard_Joni-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F1ADRl2OCw7YsNguYcAe3jV"
+    <a href="https://open.spotify.com/track/4rmiG9ubrgMQOnIdNb10TN" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/J%C3%A4germeister_--_LOKIMITDERMASKE%2C_Doktormethoden_%26_Doktormithoden-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F4rmiG9ubrgMQOnIdNb10TN"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
