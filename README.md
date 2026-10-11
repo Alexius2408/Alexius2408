@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/20K68qXqEBEIm1ZPE86v8C" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Ist_da_jemand_(Techno)_--_Paayne-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F20K68qXqEBEIm1ZPE86v8C"
+    <a href="https://open.spotify.com/track/4NIUnYXMUQoE0zCF6s1zfK" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Schau_mich_nicht_so_an_--_Hardtekk_Remix_--_Calypso%2C_Schillah%2C_Lari-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F4NIUnYXMUQoE0zCF6s1zfK"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
