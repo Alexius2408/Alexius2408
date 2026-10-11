@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/4FGzVzqscaNYuT2oDiYpzl" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Liebe_--_Techno_--_Schleini-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F4FGzVzqscaNYuT2oDiYpzl"
+    <a href="https://open.spotify.com/track/4rOiOuamsm7MCmFB26oobw" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Stra%C3%9Fen_voll_mit_leeren_Menschen_--_Schillah%2C_Maytrixx-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F4rOiOuamsm7MCmFB26oobw"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
