@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/7czFYbkjbMdgbUXbkt7jUU" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/I_Run_--_HAVEN.%2C_Kaitlin_Aragon-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F7czFYbkjbMdgbUXbkt7jUU"
+    <a href="https://open.spotify.com/track/5yBASTAFuW1Qtpd3ZKCjPp" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Loop_--_Jerri-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F5yBASTAFuW1Qtpd3ZKCjPp"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
