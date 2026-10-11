@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/4PvH3s4WjHQ2lZTklnhkQ0" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/GEBALLER_(ANABOLIC_REMIX)_--_Anabolic_Impact%2C_Weyhv351-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F4PvH3s4WjHQ2lZTklnhkQ0"
+    <a href="https://open.spotify.com/track/6MGoFApF6ZbvFB7rQKZ1ko" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Nie_Wieder_--_Maytrixx%2C_Schillah-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F6MGoFApF6ZbvFB7rQKZ1ko"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
