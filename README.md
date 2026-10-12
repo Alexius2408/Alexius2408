@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/0GT2hQQ6mdHeW0AZDl5NlJ" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Gatluak_--_Bakermat_Remix_--_Kronan%2C_Nyaruach%2C_Bakermat-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F0GT2hQQ6mdHeW0AZDl5NlJ"
+    <a href="https://open.spotify.com/track/3UVhnqrvb2ZuVFLuK7K9cK" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/WILDFIRE_--_FUZION%2C_Zeli-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F3UVhnqrvb2ZuVFLuK7K9cK"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
