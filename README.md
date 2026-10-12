@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Check_Out_--_J._Worra%2C_Leo_Stannard-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F2n6qz4opcJlHsEpI8030YM"
+    <a href="https://open.spotify.com/track/7aHchxAlDSkmmoa57CR3U5" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/I_GOT_U_--_FUZION-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F7aHchxAlDSkmmoa57CR3U5"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
