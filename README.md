@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/67p96tIoC4ESrod9kW331R" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Hot_Air_Balloon_--_Don_Diablo%2C_AR%2FCO-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F67p96tIoC4ESrod9kW331R"
+    <a href="https://open.spotify.com/track/1VDfvBUMwL3m1Sd9dMorR4" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Money_Made_Me_A_Savage_--_Calabria_--_Ely_Oaks%2C_LAVINIA-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F1VDfvBUMwL3m1Sd9dMorR4"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
