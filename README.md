@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/7KbMwFNvNvxWjBJABrnWfw" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Sugar_Baby_--_LYOD-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F7KbMwFNvNvxWjBJABrnWfw"
+    <a href="https://open.spotify.com/track/01Ua40rpS1mSEB45SwEPtP" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/One_More_Song_(I'll_Be_On_My_Way)_--_Why_U_So%2C_Luis_Coren-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F01Ua40rpS1mSEB45SwEPtP"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
