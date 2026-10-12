@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/4mVtLF2vsHUQctUrc7fDIR" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Waterfalls_(feat._Sam_Harper_%26_Bobby_Harvey)_%5BHAVEN._Remix%5D_--_James_Hype%2C_Sam_Harper%2C_Bobby_Harvey%2C_HAVEN.-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F4mVtLF2vsHUQctUrc7fDIR"
+    <a href="https://open.spotify.com/track/0gRb5QXeE8bXRRRR06R8SW" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Drunk_Wishing_--_Distant_Matter%2C_Arden_Jones-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F0gRb5QXeE8bXRRRR06R8SW"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
