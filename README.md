@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/4CLsfJ1aEHfVkwr5TJenkI" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Knock_Me_Off_My_Feet_--_oskar_med_k-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F4CLsfJ1aEHfVkwr5TJenkI"
+    <a href="https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Check_Out_--_J._Worra%2C_Leo_Stannard-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F2n6qz4opcJlHsEpI8030YM"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
