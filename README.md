@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/5zX4JjkoT2pgvlWPnjgVNQ" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/What_A_Life_(feat._Florence_Arman)_--_FISHER%2C_Florence_Arman-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F5zX4JjkoT2pgvlWPnjgVNQ"
+    <a href="https://open.spotify.com/track/3pled4Jr2laBWkJJFwo6TJ" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Downtown_Light_--_Why_U_So-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F3pled4Jr2laBWkJJFwo6TJ"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
