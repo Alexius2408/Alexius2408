@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/5oOKU4RiAMyqUoOKICb92j" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Walking_On_A_Dream_--_BLOND%3AISH_Remix_--_Empire_Of_The_Sun%2C_BLOND%3AISH-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F5oOKU4RiAMyqUoOKICb92j"
+    <a href="https://open.spotify.com/track/7t3bCDH5vjN3Huw1Tu4pZo" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/I_Only_Smoke_When_I_Drink_--_Claptone_Remix_--_nimino%2C_Claptone-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F7t3bCDH5vjN3Huw1Tu4pZo"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
