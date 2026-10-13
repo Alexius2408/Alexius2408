@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/33ZOUzkmTrwfA1TsW6421d" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Honey_--_Disco_Lines%2C_Gabriella-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F33ZOUzkmTrwfA1TsW6421d"
+    <a href="https://open.spotify.com/track/654qTb7UqrBuQIic4sE2hW" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Cause_of_You_--_Oliver_Malcolm-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F654qTb7UqrBuQIic4sE2hW"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
