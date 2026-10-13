@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/0UyD9yZibV9w7iLTHpgOBL" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Pool_--_Eminara_Remix_--_kiki_wera%2C_Eminara-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F0UyD9yZibV9w7iLTHpgOBL"
+    <a href="https://open.spotify.com/track/2nVObDdEcHwMsWjq30YWbq" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/I_need_your_kiss_(sadagain_version)_--_sadagain%2C_iilliaa-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F2nVObDdEcHwMsWjq30YWbq"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
