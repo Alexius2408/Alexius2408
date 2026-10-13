@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/7t3bCDH5vjN3Huw1Tu4pZo" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/I_Only_Smoke_When_I_Drink_--_Claptone_Remix_--_nimino%2C_Claptone-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F7t3bCDH5vjN3Huw1Tu4pZo"
+    <a href="https://open.spotify.com/track/1xU08ZbBCDmwZ4eghweS1c" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Sun_Don't_Shine_--_Klangkarussell%2C_Jaymes_Young-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F1xU08ZbBCDmwZ4eghweS1c"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
