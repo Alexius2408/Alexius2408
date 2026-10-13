@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/4sMR8fuTzbUyzB0asxifV0" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Desire_--_Ian_Asher%2C_Olly_Alexander_(Years_%26_Years)-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F4sMR8fuTzbUyzB0asxifV0"
+    <a href="https://open.spotify.com/track/3ryFeypZENF6LxDXuukYck" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Jamie_(Do_you_still_love_me%3F)_--_Ecchi.mp4%2C_dj_gummy_bear-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F3ryFeypZENF6LxDXuukYck"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
