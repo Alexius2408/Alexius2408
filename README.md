@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/1bE98D49uKNetOyLiaB8tG" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Never_Walk_Alone_--_BLOND%3AISH%2C_Stevie_Appleton-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F1bE98D49uKNetOyLiaB8tG"
+    <a href="https://open.spotify.com/track/5VGel8rVmBQrr7mSAtpW2u" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Dancin_(feat._Luvli)_--_southstar_Remix_--_Aaron_Smith%2C_Luvli%2C_southstar-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F5VGel8rVmBQrr7mSAtpW2u"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
