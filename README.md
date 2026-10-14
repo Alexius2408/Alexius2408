@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/5KzQyIrNIq88JiwTN42nAs" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/speak_easy_--_Cade_Alami-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F5KzQyIrNIq88JiwTN42nAs"
+    <a href="https://open.spotify.com/track/3Kx7gavZ1oFRnB2trqLLLM" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Jenny_(I_Wanna_Ruin_Our_Friendship)_--_Ian_Asher%2C_Studio_Killers-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F3Kx7gavZ1oFRnB2trqLLLM"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
