@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/0shgxIme93pRpgQRJxAVYa" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/I_NEED_YOUR_LOVIN_(2025_REFIX)_%5BLIKE_THE_UPTEMPO%5D_--_TitoBlase-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F0shgxIme93pRpgQRJxAVYa"
+    <a href="https://open.spotify.com/track/754EYqPduEiS50ls55ffJE" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Him_%26_I_HardTekk_--_Tchxd-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F754EYqPduEiS50ls55ffJE"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
