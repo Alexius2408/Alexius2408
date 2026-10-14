@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/3CUjQSY81ZV6GBUcoPCBrL" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/darling_don't_be_so_shy_--_Milco-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F3CUjQSY81ZV6GBUcoPCBrL"
+    <a href="https://open.spotify.com/track/1vtPrklVfyouKAtBQMAUYw" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Wounds_--_James_Carter-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F1vtPrklVfyouKAtBQMAUYw"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
