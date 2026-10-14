@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/70qtAm86ihQQybd93tprHZ" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/If_U_Had_My_Love_--_Ian_Asher-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F70qtAm86ihQQybd93tprHZ"
+    <a href="https://open.spotify.com/track/2olXIRG0Nev7cr9D8Z340Q" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Pool_--_Gravagerz_Version_--_Slowed_Down_--_Gravagerz%2C_kiki_wera-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F2olXIRG0Nev7cr9D8Z340Q"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
