@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/0IRDLaO3ng5eyl4Po8hZXj" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/summer_on_the_inside_--_warner_case%2C_Jean_Tonique%2C_Max_Kaluza-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F0IRDLaO3ng5eyl4Po8hZXj"
+    <a href="https://open.spotify.com/track/0UyD9yZibV9w7iLTHpgOBL" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Pool_--_Eminara_Remix_--_kiki_wera%2C_Eminara-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F0UyD9yZibV9w7iLTHpgOBL"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
