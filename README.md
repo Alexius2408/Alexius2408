@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/1xU08ZbBCDmwZ4eghweS1c" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Sun_Don't_Shine_--_Klangkarussell%2C_Jaymes_Young-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F1xU08ZbBCDmwZ4eghweS1c"
+    <a href="https://open.spotify.com/track/1i2mlzAv7HAAMMSZyUJ2B2" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/collide_--_%C5%81aszewo-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F1i2mlzAv7HAAMMSZyUJ2B2"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
