@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/3dlNmJS09ksZN719Eizlx6" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/should've_never_loved_you_--_no_regrets-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F3dlNmJS09ksZN719Eizlx6"
+    <a href="https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Forever_--_ZULAN-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F32GOfiLnbER2VOOxJkg29P"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
