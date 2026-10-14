@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/2olXIRG0Nev7cr9D8Z340Q" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Pool_--_Gravagerz_Version_--_Slowed_Down_--_Gravagerz%2C_kiki_wera-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F2olXIRG0Nev7cr9D8Z340Q"
+    <a href="https://open.spotify.com/track/0eUP3XYOCAj7lGoz4LOhyQ" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Talk_To_You_(ft._54_Ultra)_--_ANOTR%2C_54_Ultra-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F0eUP3XYOCAj7lGoz4LOhyQ"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
