@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/1F4ZmdMgUlQbmr5FNb5mQL" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Tike_Monta_Musica_Makina_(The_Five)_--_Kinson-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F1F4ZmdMgUlQbmr5FNb5mQL"
+    <a href="https://open.spotify.com/track/2sgbEfih4ClTQ13fo3zaOl" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Why_Do_You_Hate_Me_--_CH4YN-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F2sgbEfih4ClTQ13fo3zaOl"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
