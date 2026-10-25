@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/2rkUhGw5iWbBY1PE5AnCl8" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Way_Too_Self_Aware_--_Ian_Asher-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F2rkUhGw5iWbBY1PE5AnCl8"
+    <a href="https://open.spotify.com/track/15a30YqNPApO8OS0RpqNND" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Only_Friends_--_BUNT.-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F15a30YqNPApO8OS0RpqNND"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
