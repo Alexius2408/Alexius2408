@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Black_Friday_--_pretty_like_the_sun_--_Lost_Frequencies%2C_Tom_Odell-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F4MSj19TwYBLgDFj3ddEeco"
+    <a href="https://open.spotify.com/user/31ikvkn2ygnqroneptawkkyr2yp4" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Nothing-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Fuser%2F31ikvkn2ygnqroneptawkkyr2yp4"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
