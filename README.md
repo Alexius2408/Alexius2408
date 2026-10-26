@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/3OLYHxl3y6qhrvUMGNJ894" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Rock_%26_Roll_--_Oliver_Malcolm-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F3OLYHxl3y6qhrvUMGNJ894"
+    <a href="https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/My_Love_(2024)_--_Alex_Wann%2C_Route_94%2C_Jess_Glynne-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F2nljjiWhzVIugb5vgEMQQk"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
