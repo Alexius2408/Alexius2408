@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/7s6qpMVbLiDv871lvhpo0u" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Spaces_--_BUNT.%2C_The_Chainsmokers%2C_Izzy_Bizu-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F7s6qpMVbLiDv871lvhpo0u"
+    <a href="https://open.spotify.com/track/7a640PjWieRdVaGK5SW9ED" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/I_Like_The_Way_You_Move_--_Matteo_Cole-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F7a640PjWieRdVaGK5SW9ED"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
