@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/0bVZmDucXR96aZQJxHlE5m" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/We_Could_Be_Love_--_Hayden_James%2C_AR%2FCO-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F0bVZmDucXR96aZQJxHlE5m"
+    <a href="https://open.spotify.com/user/31ikvkn2ygnqroneptawkkyr2yp4" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Nothing-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Fuser%2F31ikvkn2ygnqroneptawkkyr2yp4"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
