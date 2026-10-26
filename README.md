@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/HIGHJACK_(right_back)_--_Alok%2C_%C5%81aszewo%2C_A%24AP_Rocky-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F1Eqdkt6DfGNWElHpeujHGJ"
+    <a href="https://open.spotify.com/track/2gKewcQZEV1fqoWH81RUDk" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Jamming_--_FISHER_Rework_--_Bob_Marley_%26_The_Wailers%2C_FISHER-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F2gKewcQZEV1fqoWH81RUDk"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
