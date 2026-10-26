@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/2gKewcQZEV1fqoWH81RUDk" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Jamming_--_FISHER_Rework_--_Bob_Marley_%26_The_Wailers%2C_FISHER-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F2gKewcQZEV1fqoWH81RUDk"
+    <a href="https://open.spotify.com/track/0D57lQnn110jGaup4NguSI" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Sweet_Disposition_(a_moment%2C_a_love)_--_Lost_Frequencies%2C_The_Temper_Trap-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F0D57lQnn110jGaup4NguSI"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
