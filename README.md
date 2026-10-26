@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/6YiIWuVXS4AqF1KvUGMwyx" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/crystallized_(feat._In%C3%A9z)_--_John_Summit%2C_In%C3%A9z-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F6YiIWuVXS4AqF1KvUGMwyx"
+    <a href="https://open.spotify.com/track/2C96iPyCRXL5sOKivhlOWp" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/tell_you_straight_--_jigitz-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F2C96iPyCRXL5sOKivhlOWp"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
