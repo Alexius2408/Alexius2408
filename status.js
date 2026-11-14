@@ -12,6 +12,13 @@ async function main() {
   );
 
   if (!response.ok) {
+if (response.status === 429) {
+    updateReadme(
+        "https://open.spotify.com/user/31ikvkn2ygnqroneptawkkyr2yp4",
+        "Error 429: Too many requests",
+        true
+    );
+}
     throw new Error(`Lanyard returned ${response.status}`);
   }
 
