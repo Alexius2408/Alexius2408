@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/6Wy2vBWr8dGxD8Cn1y6g9o" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/NORMALES_LEBEN_--_DJ_FENT-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F6Wy2vBWr8dGxD8Cn1y6g9o"
+    <a href="https://open.spotify.com/track/1AqiVS5cLWuNGjKKr7yHEO" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Wei%C3%9Fer_Hai_--_TekkSchuster_Remix_--_LOCO_ERNO%2C_TekkSchuster-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F1AqiVS5cLWuNGjKKr7yHEO"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
