@@ -10,7 +10,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Alexius2408&label=Profile%20Views&color=D79921&style=flat-square" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Alexius2408?label=Followers&style=flat-square&color=98971A&labelColor=282828&logo=github&logoColor=EBDBB2" alt="GitHub followers" />
-<img src="https://img.shields.io/github/stars/Alexius2408?label=Stars&style=flat-square&color=FE8019&labelColor=282828&logo=github&logoColor=EBDBB2" alt="GitHub stars" />
+<img src="https://img.shields.io/github/stars/Alexius2408?affiliations=OWNER&label=Stars&style=flat-square&color=FE8019&labelColor=282828&logo=github&logoColor=EBDBB2" alt="GitHub stars" />
 </div>
 
 ---
