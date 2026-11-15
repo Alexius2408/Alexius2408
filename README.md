@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Don't_Stop_Believin'_--_Journey-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F77NNZQSqzLNqh2A9JhLRkg"
+    <a href="https://open.spotify.com/track/4KMo5BKlbTrEuo4CHib6Ma" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/LUCKY_LUKE_--_HARDWICK-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F4KMo5BKlbTrEuo4CHib6Ma"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
