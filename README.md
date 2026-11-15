@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/5zcbKmvbzexQMyEHuWLrh9" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Pinocchio_--_HIGHTKK%2C_AkrosBrutalos%2C_TekkSportGTown-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F5zcbKmvbzexQMyEHuWLrh9"
+    <a href="https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Baddadan_(feat._IRAH%2C_Flowdan%2C_Trig...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F2ZWmmrWUgDBcPSLihBMvhg"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
