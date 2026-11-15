@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/3rDjCTJ7x6U9rvMJgBR5NW" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Back_and_Forth_--_Litil_Remix_--_OldSchool...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F3rDjCTJ7x6U9rvMJgBR5NW"
+    <a href="https://open.spotify.com/track/56xH6BfLoJ6zSp5t9gdEdw" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Bir_(with_Mehnersmoos)_--_Atomsauf_Edit_--...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F56xH6BfLoJ6zSp5t9gdEdw"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
