@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/2wgDmbu3a4gAYjiyE2DFU5" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Probleme_zu_vertrauen_--_ArniTheSavage%2C_S...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F2wgDmbu3a4gAYjiyE2DFU5"
+    <a href="https://open.spotify.com/track/7GKq6alATTbWPJ6kVhLz5B" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Eine_fette_Line_--_Schillah%2C_ArniTheSavag...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F7GKq6alATTbWPJ6kVhLz5B"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
