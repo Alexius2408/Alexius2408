@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Why'd_You_Only_Call_Me_When_You're_High%3F_--_Arctic_Monkeys-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F086myS9r57YsLbJpU0TgK9"
+    <a href="https://open.spotify.com/track/4JiEyzf0Md7KEFFGWDDdCr" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Knockin'_On_Heaven's_Door_--_Guns_N'_Roses-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F4JiEyzf0Md7KEFFGWDDdCr"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
