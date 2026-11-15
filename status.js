@@ -47,7 +47,7 @@ if (response.status === 429) {
 
     if (artists) {
       songTitle = `${songTitle} - ${artists}`
-      songTitle = songTitle.length > 40 ? songTitle.slice(0, 35) + "..." : songTitle;
+      songTitle = songTitle.length > 40 ? songTitle.slice(0, 40) + "..." : songTitle;
     }
 
     if (trackId) {
