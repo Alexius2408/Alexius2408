@@ -42,7 +42,7 @@ if (response.status === 429) {
     const trackId = data.spotify.track_id || "";
 
     if (song) {
-      songTitle = song;
+      songTitle = song.length > 35 ? song.slice(0, 35) + "..." : song;
     }
 
     if (artists) {
