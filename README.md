@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/2hGqXHYnhBVdZ6dprA9ljk" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Wir_Sind_Auf_Kristel_Und_Haben_Ne_Macke_...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F2hGqXHYnhBVdZ6dprA9ljk"
+    <a href="https://open.spotify.com/track/5dZZT4JntugjZ06yxI3dL9" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Mania_--_Roy_Levante-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F5dZZT4JntugjZ06yxI3dL9"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
