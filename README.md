@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/46wUQqBSuRkGEvd4XdbGAS" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/I_Love_It_(TikTok_Edit)_--_Remix_--_Liesel...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F46wUQqBSuRkGEvd4XdbGAS"
+    <a href="https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Nicole_Kidman_--_AD%C3%89LA-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F70cHKK8bHAfJrOGVnfRG9J"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
