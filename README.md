@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/0uTwMnxG3ebJpIgQfmxhbF" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Die_Immer_Lacht_--_ULUKALA-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F0uTwMnxG3ebJpIgQfmxhbF"
+    <a href="https://open.spotify.com/track/313BOyO6m7JZRdgalY9GLU" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Black_Sky_--_Azulo%2C_Zentryc-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F313BOyO6m7JZRdgalY9GLU"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
