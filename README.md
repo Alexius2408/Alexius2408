@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/6TTGvSbriuHplgq5wmv0Ss" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Die_Biene_Maja_--_Emi_Flemming_SCHLAGERTE...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F6TTGvSbriuHplgq5wmv0Ss"
+    <a href="https://open.spotify.com/track/7jbWJ8dBSFElWnoGn9XYHI" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Die_Biene_Maja_--_Karel_Gott-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F7jbWJ8dBSFElWnoGn9XYHI"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
