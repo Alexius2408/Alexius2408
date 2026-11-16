@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/7jbWJ8dBSFElWnoGn9XYHI" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Die_Biene_Maja_--_Karel_Gott-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F7jbWJ8dBSFElWnoGn9XYHI"
+    <a href="https://open.spotify.com/track/4rJlqNxk6wNemZdLGv7qJC" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Wacher_und_K%C3%A4lter_--_SII2%2C_Schillah%2C_Arni...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F4rJlqNxk6wNemZdLGv7qJC"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
