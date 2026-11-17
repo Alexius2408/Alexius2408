@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/4EXisRBX0zNWjur3ipkyRt" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Herz_an_Herz_--_Hardtekk_--_Aua_Aua_Tekk-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F4EXisRBX0zNWjur3ipkyRt"
+    <a href="https://open.spotify.com/track/7u3eHcHUYjDKrPJD6e9ECx" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Panzerband_und_billiges_Crack_--_Tiefundt...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F7u3eHcHUYjDKrPJD6e9ECx"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
