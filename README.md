@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/4wobkmDH2DEWyyRc2B3XtO" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Meet_Her_At_The_Love_Parade_--_Alfons-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F4wobkmDH2DEWyyRc2B3XtO"
+    <a href="https://open.spotify.com/track/4TrDZV0fvgwyWIKVJni06B" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Haus_Am_See_--_Miel--Music-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F4TrDZV0fvgwyWIKVJni06B"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
