@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/2lE7XmwSv8udcnPUwtuDYi" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/F%C3%BCrs_Gewinnen_musst_verlieren_--_Remix_--_...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F2lE7XmwSv8udcnPUwtuDYi"
+    <a href="https://open.spotify.com/track/62byO8jHiDh08ad9SkSgCW" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/SAY_MY_NAME_--_N--Vitral%2C_Noxiouz%2C_BOMBSQU...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F62byO8jHiDh08ad9SkSgCW"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
