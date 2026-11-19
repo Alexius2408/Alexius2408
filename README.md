@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/2VMs3LPD0pKKD3z55ZmnVH" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Kryptonite_(Reloaded)_--_Jeris_Johnson-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F2VMs3LPD0pKKD3z55ZmnVH"
+    <a href="https://open.spotify.com/track/3DwQ7AH3xGD9h65ezslm6q" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Enter_Sandman_--_Remastered_2021_--_Metall...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F3DwQ7AH3xGD9h65ezslm6q"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
