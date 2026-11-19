@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/6ycasb0H5Ns82O6PAwj6mG" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Scotty_Doesn't_Know_--_Lustra-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F6ycasb0H5Ns82O6PAwj6mG"
+    <a href="https://open.spotify.com/track/0vrWrwDcDb78lyHyFTvxx2" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/clich%C3%A9_--_mgk-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F0vrWrwDcDb78lyHyFTvxx2"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
