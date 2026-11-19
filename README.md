@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/0UsVhVuFkSPzcDOE7x0O7T" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Running_Through_My_Mind_--_The_Holy_Santa...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F0UsVhVuFkSPzcDOE7x0O7T"
+    <a href="https://open.spotify.com/track/7bxdZIOK3zpVOcJhMPLgGq" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Gonna_Dance_with_Somebody_--_Extended_Mix...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F7bxdZIOK3zpVOcJhMPLgGq"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
