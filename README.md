@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/5SnGzL6HUhPi68muTOttIf" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Lose_U_--_Toby_Romeo-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F5SnGzL6HUhPi68muTOttIf"
+    <a href="https://open.spotify.com/track/2ZoBfe7JetuNgq2bJnDfP6" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/I'm_Not_Angry_Anymore_--_LUC%C3%98%2C_Alice_Gray-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F2ZoBfe7JetuNgq2bJnDfP6"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
