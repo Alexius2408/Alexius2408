@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/1hlcYagYzb6P12a9gbxv6I" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/NEWKID_SH!T_--_Remix_--_FEDX%2C_KICKARTZ-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F1hlcYagYzb6P12a9gbxv6I"
+    <a href="https://open.spotify.com/track/53l4yIq57BHIhHAEN5FQnz" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Aria_Math_--_Nicolaes-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F53l4yIq57BHIhHAEN5FQnz"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
