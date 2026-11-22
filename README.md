@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/The_Nights_--_Avicii-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F0ct6r3EGTcMLPtrXHDvVjc"
+    <a href="https://open.spotify.com/track/2P4OICZRVAQcYAV2JReRfj" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Waiting_For_Love_--_Avicii-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F2P4OICZRVAQcYAV2JReRfj"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
