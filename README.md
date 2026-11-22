@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Bulletproof_--_La_Roux-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F3kMrazSvILsgcwtidZd1Qd"
+    <a href="https://open.spotify.com/track/6X1mehC9bJ1ExEip4HB79W" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Alles_nur_geklaut_--_Die_Prinzen-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F6X1mehC9bJ1ExEip4HB79W"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
