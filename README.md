@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/5bGG1abhVIUm6EAa36ipRX" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/One_Day_%2F_Reckoning_Song_(Wankelmut_Remi...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F5bGG1abhVIUm6EAa36ipRX"
+    <a href="https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/The_Nights_--_Avicii-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F0ct6r3EGTcMLPtrXHDvVjc"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
