@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/1PCvKFPWnTXAe2oaReVUcr" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/We_Are_One_(Ole_Ola)_%5BThe_Official_2014_...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F1PCvKFPWnTXAe2oaReVUcr"
+    <a href="https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Renegades_--_X_Ambassadors-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F0fYVliAYKHuPmECRs1pbRf"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
