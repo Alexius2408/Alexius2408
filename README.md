@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/7pqgMEKsDMOHUdFQ7n0N9K" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Dangerous_(feat._Sam_Martin)_--_David_Gue...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F7pqgMEKsDMOHUdFQ7n0N9K"
+    <a href="https://open.spotify.com/track/1kEZGwMkrDH2enK3Vh9DNU" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/K%C3%BCss_mich_--_Ivo_Martin_x_Techno_Mix_--_Ni...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F1kEZGwMkrDH2enK3Vh9DNU"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
