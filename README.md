@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/1i1fxkWeaMmKEB4T7zqbzK" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Don't_Let_Me_Down_--_The_Chainsmokers%2C_Da...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F1i1fxkWeaMmKEB4T7zqbzK"
+    <a href="https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Wake_Me_Up_--_Avicii-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F0nrRP2bk19rLc0orkWPQk2"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
