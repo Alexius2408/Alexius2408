@@ -19,7 +19,7 @@
 
 <div class="status">
   <div class="status-badges">
-    <img src="https://img.shields.io/badge/offline-ff000?style=for-the-badge&logo=facepunch&label=currently&color=ef4444"
+    <img src="https://img.shields.io/badge/online-ff000?style=for-the-badge&logo=dependabot&label=currently&color=22c55e"
       id="status-online-img"
       alt="Currently online"
     />
