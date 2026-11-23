@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/6f7hGT8dkVxUcMP943ZRmD" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/From_The_Underground_(Rave_Core)_--_Deadl...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F6f7hGT8dkVxUcMP943ZRmD"
+    <a href="https://open.spotify.com/track/3xC0lEcKxHwWZOdppzMLxD" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Monster_2k26_(Remixes)_--_Eycer_Remix_--_M...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F3xC0lEcKxHwWZOdppzMLxD"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
