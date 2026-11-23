@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/79xJXZeudmfMq4ay9yCFGd" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/World_In_Our_Hands_--_Taio_Cruz-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F79xJXZeudmfMq4ay9yCFGd"
+    <a href="https://open.spotify.com/track/1PCvKFPWnTXAe2oaReVUcr" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/We_Are_One_(Ole_Ola)_%5BThe_Official_2014_...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F1PCvKFPWnTXAe2oaReVUcr"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
