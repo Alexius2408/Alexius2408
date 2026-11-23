@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Shut_Up_and_Dance_--_WALK_THE_MOON-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F4kbj5MwxO1bq9wjT5g9HaA"
+    <a href="https://open.spotify.com/track/2y9woPM180Da3Tgf1bBE2K" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Pflaster_--_Ich_%2B_Ich%2C_Adel_Tawil-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F2y9woPM180Da3Tgf1bBE2K"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
