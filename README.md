@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/1FCQEg7wOK9IIBuxx63krr" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/And_We_Danced_(feat._Ziggy_Stardust)_--_M...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F1FCQEg7wOK9IIBuxx63krr"
+    <a href="https://open.spotify.com/track/3jtWarFX9mNJpamfDTeP5J" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Whatever_--_CRO-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F3jtWarFX9mNJpamfDTeP5J"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
