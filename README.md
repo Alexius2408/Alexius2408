@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Club_Can't_Handle_Me_(feat._David_Guetta...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F6ebkx7Q5tTxrCxKq4GYj0Y"
+    <a href="https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Can't_Hold_Us_(feat._Ray_Dalton)_--_Mackl...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F3bidbhpOYeV4knp8AIu8Xn"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
