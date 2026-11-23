@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/4zAV2pS81cE30xhBHwG9Pf" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Sch%C3%BCttel_deinen_Speck_--_Peter_Fox-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F4zAV2pS81cE30xhBHwG9Pf"
+    <a href="https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Shut_Up_and_Dance_--_WALK_THE_MOON-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F4kbj5MwxO1bq9wjT5g9HaA"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
