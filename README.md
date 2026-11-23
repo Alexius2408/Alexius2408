@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/64BbK9SFKH2jk86U3dGj2P" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Otherside_--_Red_Hot_Chili_Peppers-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F64BbK9SFKH2jk86U3dGj2P"
+    <a href="https://open.spotify.com/track/1VsuSOEVhuCaybeb1rFeCM" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/The_Magic_Key_--_One--T-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F1VsuSOEVhuCaybeb1rFeCM"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
