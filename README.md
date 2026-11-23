@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/3xC0lEcKxHwWZOdppzMLxD" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Monster_2k26_(Remixes)_--_Eycer_Remix_--_M...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F3xC0lEcKxHwWZOdppzMLxD"
+    <a href="https://open.spotify.com/track/2EOxWdwKaJc4Xoi5YaQoeh" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Ich_find_Liebe_ziemlich.._--_Remix_--_FEDX...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F2EOxWdwKaJc4Xoi5YaQoeh"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
