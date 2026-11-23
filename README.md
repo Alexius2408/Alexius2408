@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/5QRkWkMabF6HJmQQm2HBVX" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Ein_Kompliment_--_Sportfreunde_Stiller-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F5QRkWkMabF6HJmQQm2HBVX"
+    <a href="https://open.spotify.com/track/0XRJfwNFKpKn6yN1JYktSK" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Zukunft_Pink_(feat._In%C3%A9z)_--_Peter_Fox%2C_I...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F0XRJfwNFKpKn6yN1JYktSK"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
