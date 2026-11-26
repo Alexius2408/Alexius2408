@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/0fVNTkY7m3AsiffVKZRFU4" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Hassen_--_Justin_Pollnik%2C_Ajo_Felix%2C_Arni...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F0fVNTkY7m3AsiffVKZRFU4"
+    <a href="https://open.spotify.com/track/5CBKqVOPRbfStuZY91g1QV" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/Bis_es_weh_tut_--_Remix_--_FEDX-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F5CBKqVOPRbfStuZY91g1QV"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
