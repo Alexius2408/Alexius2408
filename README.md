@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/5X7JlkLot1LaxezxVT3sss" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/Hardcore_Vibes_--_Dimitri_K_%26_D--Fence_Rem...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F5X7JlkLot1LaxezxVT3sss"
+    <a href="https://open.spotify.com/track/61MnaF1mjRxrEFVgOZoVUz" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/The_Core_Citadel_(Official_Dominator_202...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F61MnaF1mjRxrEFVgOZoVUz"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
