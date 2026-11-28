@@ -23,8 +23,8 @@
       id="status-online-img"
       alt="Currently online"
     />
-    <a href="https://open.spotify.com/track/1QIBLPZqpqETKtuMLpHAN4" target="_blank" rel="noopener noreferrer" id="spotify-link">
-      <img src="https://img.shields.io/badge/WHAT_THA_HELLY_(SOMEONE_CALL_THE_AMBULAN...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F1QIBLPZqpqETKtuMLpHAN4"
+    <a href="https://open.spotify.com/track/66exMOdOYDvytfS9RQXiXq" target="_blank" rel="noopener noreferrer" id="spotify-link">
+      <img src="https://img.shields.io/badge/TAKE_ME_AWAY_--_Rooler%2C_Sickmode%2C_Paul_El...-555555?style=for-the-badge&logo=spotify&label=Listening_to&color=10b981&link=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F66exMOdOYDvytfS9RQXiXq"
         id="status-listening-img"
         alt="Currently listening to Nothing"
         title="Click to open Spotify"
